@@ -143,11 +143,28 @@ Yes. The dataset is designed to be periodically updated through an automated and
 
 **Who is the contact person or team for questions or issues?**  
 For inquiries or support, please contact the corresponding author:  
-**Chaddy Zawuya** - `zawuya@gmail.com`
-**Alfred Malengo Kondoro** – `alfr3do@hanyang.ac.kr`
+- **Chaddy Zawuya** - `zawuya@gmail.com`
+- **Alfred Malengo Kondoro** – `alfr3do@hanyang.ac.kr`
 
 **Are updates versioned?**  
 Yes. Version control and changelogs are managed through GitHub to ensure transparency in dataset updates and modifications.
 
 **Is there a changelog?**  
 Yes. A changelog is maintained on the GitHub repository alongside each dataset release to track additions, improvements, and structural changes.
+
+## 8. Ethical Considerations
+
+**Was demographic or identity information collected?**  
+No personally identifiable information was intentionally collected. All data was sourced from publicly accessible web content.
+
+**Are there potential risks in using the data?**  
+Yes. Potential risks include exposure to biased, copyrighted, or sensitive material due to the nature of web-scraped data.
+
+**Were there harms to any group during collection?**  
+No direct harm was caused during collection, but there is a possibility that offensive, biased, or harmful content may be present within the corpus.
+
+**How are those risks mitigated?**  
+Future versions of the dataset will include:
+- Stricter sourcing and data governance guidelines  
+- Enhanced anonymization techniques  
+- Ethical review protocols to ensure responsible data use
